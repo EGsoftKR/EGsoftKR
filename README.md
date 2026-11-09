@@ -27,6 +27,16 @@
 
 > 소스 저장소는 비공개입니다. 위 링크의 실제 서비스와 데모로 확인해 주세요.
 
+## 보안
+
+### 🛡️ EG-Vaccine
+
+Windows / macOS 공용 백신 + 랜섬웨어 실시간 차단 도구입니다. **출시 준비 중**입니다.
+
+- **파일 검사**: 공개 위협 피드의 해시 시그니처, 휴리스틱, YARA 규칙으로 검사하고 격리
+- **실시간 보호**: 미끼(카나리) 파일과 프로세스 감시로 랜섬웨어 동작을 감지해 공격 프로세스를 종료
+- **설치와 업데이트**: 파일 하나로 설치하고 새 버전으로 스스로 업데이트
+
 ## 게임
 
 ### 🎼 Maestro's Beats: Conquer Classic
@@ -56,6 +66,9 @@ Instead of bending your work to fit a generic system, each product is built arou
 | 🚀 **EG-ERP** | Official portal for the series: product guide, onboarding, custom ERP inquiries | **[eg-erp.com](https://eg-erp.com)** |
 | 💧 **EG-aqua** | ERP for water purifier and home appliance rental businesses: per-installment billing, payment allocation, filter replacement cycles, sales commission settlement | Live · **[aqua.eg-erp.com](https://aqua.eg-erp.com)** · [Try the demo](https://aqua.eg-erp.com/demo) |
 | 🏍️ **EG-bike** | ERP for motorcycle shops: online repair booking, work orders, parts inventory, profit settlement | In preparation · taking early inquiries |
+
+**🛡️ EG-Vaccine** is an antivirus and real-time anti-ransomware tool for Windows and macOS, currently in preparation for release.
+It scans files with hash signatures, heuristics and YARA rules, and stops ransomware processes using canary files and process monitoring.
 
 **🎼 Maestro's Beats: Conquer Classic** is a story-mode rhythm game built on classical masterpieces, for Windows and macOS.
 It has a 5-act, 40-episode story, three difficulty levels (3, 5 and 7 lanes), and auto-generated charts for your own audio files.
